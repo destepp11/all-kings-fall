@@ -10,7 +10,7 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-    tagline = "but not you!"
+    tagline = "except for you of course!"
     author = "Unibear Studio"
     description = "In every generation kings come to power. Some gain their crowns through bloody conquest. Others the lucky sons of old rulers. Yet one thing is clear: All kings fall. Except for you of course! "
     logoBig = "/images/AllKingsFall-LogoONWHITE.png"

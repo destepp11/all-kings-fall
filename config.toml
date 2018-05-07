@@ -1,5 +1,5 @@
 title = "All Kings Fall"
-baseURL = "https://unibearstudio.com"
+baseURL = "/"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "en-US"
 config = "config.toml"

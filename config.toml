@@ -35,11 +35,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
     name = "About"
     url  = "/#about"
     weight = 1
+    [[menu.main]]
+        name = "Contents"
+        url  = "/#contents"
+        weight = 2
 [[menu.main]]
     name = "Rulebook"
     url  = "/#rulebook"
-    weight = 2
+    weight = 3
 [[menu.main]]
     name = "Contact"
     url  = "/#contact"
-    weight = 3
+    weight = 4

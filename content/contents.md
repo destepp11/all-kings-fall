@@ -4,7 +4,6 @@ date: 2018-05-02T22:01:11-04:00
 draft: false
 ---
 
-
 ## Box Contents
 
 1. **9x Player Decks:**

@@ -30,11 +30,8 @@ draft: false
     * Player 8 Crown Card
     * Player 9 Crown Card
 3. **9x Player Playmats**
-4. **3x Circle Token Punchouts**
+4. **2x Token Punchout Sheets**
 5. **1x Rule Sheet**
-Card Size: 2.5” x 2.5”
-Total cards: 117
-1 Card Back
 
 
 **Player Deck Sheet:** 

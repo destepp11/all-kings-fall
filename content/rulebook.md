@@ -16,7 +16,7 @@ There are four devices employed by kings. Each device is used to fight the devic
 		
 * **The Mask** - This device represents espionage and politics, as well as the efforts to uncover plots against you.  
 		
-* **The Rat** - This device represents food, plagues, and diseases, as well as the efforts to contain and cure them.* **The Rat** - This device represents plagues and diseases, as well as the efforts to contain and cure them.
+* **The Rat** - This device represents food, plagues, and diseases, as well as the efforts to contain and cure them.
 
 * **The Cup** - This device represents those closest to you. Your family, your servants, and the very meals you eat. Poisoned or otherwise, every king drinks from his cup every night.
 

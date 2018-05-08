@@ -35,19 +35,14 @@ draft: false
 
 
 **Player Deck Sheet:** 
-![Player Deck Sheet](/images/contents/cards-set.png)
 
 **Player Identifier Deck Sheet:** 
-![Player Identifier Deck Sheet](/images/contents/player-card.png)
 
 **Card Back:** 
-![Card Back](/images/contents/cards-back.png)
 
 **Playmat:** 
-![Playmat](/images/contents/playmat.png)
 
 **Circle Token Sheet:** 
-![Token](/images/contents/token.png)
 
 **Rule Sheet Image:**
 

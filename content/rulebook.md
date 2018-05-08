@@ -25,7 +25,7 @@ First, determine who should go first. Turns take place clockwise from this perso
 	
 ## **PLOTTING**
 
-All players plot simultaneously. Each player selects two cards from their hand and places them face-down on one or more of their devices. The decisions made are not permanent until all players agree to end the plotting phase. Players can choose to bolster the sword, dagger, or rat. They can also choose to check the cup. Lastly, they can choose to employ one or more of their devices against players, but cannot employ more than one of their devices against the same player in a single round. Once all players agree to continue, the game advances to the **Reveal** phase.
+All players plot simultaneously. Each player selects two cards from their hand and places them face-down on one or more of their devices. The decisions made are not permanent until all players agree to end the plotting phase. Players can choose to bolster the sword, mask, or rat. They can also choose to check the cup. Lastly, they can choose to employ one or more of their devices against players, but cannot employ more than one of their devices against the same player in a single round. Once all players agree to continue, the game advances to the **Reveal** phase.
 	
 ## **REVEAL**
 

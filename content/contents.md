@@ -31,18 +31,3 @@ draft: false
 3. **9x Player Playmats**
 4. **2x Token Punchout Sheets**
 5. **1x Rule Sheet**
-
-
-**Player Deck Sheet:** 
-
-**Player Identifier Deck Sheet:** 
-
-**Card Back:** 
-
-**Playmat:** 
-
-**Circle Token Sheet:** 
-
-**Rule Sheet Image:**
-
-**Box Art:** 
